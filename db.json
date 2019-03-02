@@ -17,25 +17,25 @@
                 "item": "Taco Pastor",
                 "price": 10.00,
                 "onStock": true,
-                "photoUrl": "assets/imgs/pizzas.jpg"
+                "photoUrl": "localhost:8100/assets/imgs/pizzas.jpg"
             },
             {
                 "item": "Gringa",
                 "price": 45.50,
                 "onStock": true,
-                "photoUrl": "..."
+                "photoUrl": "localhost:8100/assets/imgs/pizzas.jpg"
             },
             {
                 "item": "Mulita",
                 "price": 35.00,
                 "onStock": true,
-                "photoUrl": "..."
+                "photoUrl": "localhost:8100/assets/imgs/pizzas.jpg"
             },
             {
                 "item": "Quesadilla",
                 "price": 35.00,
                 "onStock": true,
-                "photoUrl": "..."
+                "photoUrl": "localhost:8100/assets/imgs/pizzas.jpg"
             }
         ]
        }
