@@ -17,7 +17,7 @@
                 "item": "Taco Pastor",
                 "price": 10.00,
                 "onStock": true,
-                "photoUrl": "..."
+                "photoUrl": "assets/imgs/pizzas.jpg"
             },
             {
                 "item": "Gringa",
