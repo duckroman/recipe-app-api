@@ -1,0 +1,44 @@
+{
+   "bussiness" : 
+       {
+        "bussinessName" : "24 Horas",
+        "bussinessCategory": "Tacos",
+        "logoUrl": "...",
+        "bussinessAdrress":{
+            "street":" Garcia Salinas 108",
+            "neighborhood":"El Carmen",
+            "city":"Guadalupe",
+            "state":"Zacatecas",
+            "country":"México",
+            "phone":4922123842
+        },
+        "menu" : [
+            {
+                "item": "Taco Pastor",
+                "price": 10.00,
+                "onStock": true,
+                "photoUrl": "..."
+            },
+            {
+                "item": "Gringa",
+                "price": 45.50,
+                "onStock": true,
+                "photoUrl": "..."
+            },
+            {
+                "item": "Mulita",
+                "price": 35.00,
+                "onStock": true,
+                "photoUrl": "..."
+            },
+            {
+                "item": "Quesadilla",
+                "price": 35.00,
+                "onStock": true,
+                "photoUrl": "..."
+            }
+        ]
+       }
+   
+    
+}
